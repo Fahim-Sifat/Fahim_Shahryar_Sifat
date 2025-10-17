@@ -1,0 +1,58 @@
+body{
+    background-color: aquamarine
+}
+.div1{
+    width: 50%;
+    float:left
+}
+
+.div2{
+    width: 50%;
+    float:right
+}
+
+.p1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: right 30px;
+
+}
+h1{
+    font-size: 30px;
+}
+
+.name{
+    color: brown;
+}
+.span1{
+    color: blue;
+}
+
+
+.img1{
+    width: 700px;
+    height: 500px;
+}
+.img2{
+    width: 50px;
+    height: 50px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.facebook{
+    width: 50px;
+    height: 50px;
+    margin-left: 70px; 
+    margin-top: 20px;
+}
+
+.p2{
+    color: blue;
+    font-size: 50px;
+}
+
+.p3{
+    color: brown;
+    font-size: 40px;
+}
